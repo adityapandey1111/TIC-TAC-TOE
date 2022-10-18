@@ -6,8 +6,9 @@
 ![Screenshot (160)](https://user-images.githubusercontent.com/114282369/196422418-14f1da57-029c-4b78-94ea-d40ba94395ed.png)
 
 
-Controls :
-1.Player X starts the game.\n
-2.Click on each grid to place symbol.\n
-3.The result of the game is displayed at the end of the game\n
-4.Click on the restart button to play again
+## Controls :
+
+#### 1.Player X starts the game.
+#### 2.Click on each grid to place symbol.
+#### 3.The result of the game is displayed at the end of the game.
+#### 4.Click on the restart button to play again.
