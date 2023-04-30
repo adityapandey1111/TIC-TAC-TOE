@@ -15,4 +15,4 @@
 #### 3.The result of the game is displayed at the end of the game.
 #### 4.Click on the restart button to play again.
 
-## .exe of the game is avilable with this project.
+## Fully responsive .exe of the game is avilable with this project.
