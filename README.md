@@ -14,3 +14,5 @@
 #### 2.Click on each grid to place symbol.
 #### 3.The result of the game is displayed at the end of the game.
 #### 4.Click on the restart button to play again.
+
+## .exe of the game is avilable with this project.
