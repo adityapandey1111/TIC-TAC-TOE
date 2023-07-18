@@ -16,3 +16,4 @@
 #### 4.Click on the restart button to play again.
 
 ## Fully responsive .exe of the game is avilable with this project.
+## To download and play game click [here](https://drive.google.com/uc?export=download&id=1KJUL2x8don7TI5U4yskWzj7dgUUKKRok)
